@@ -13,6 +13,7 @@
 
 3. Run the web applications 
 
+<p>php artisan migrate</p>
 <p>php artisan serve</p>
 
 4. Enter the date in Year/Month/Day Hour:Minutes:Seconds
