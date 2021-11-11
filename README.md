@@ -13,6 +13,7 @@
 
 3. Run the web applications 
 
+<p>change your database directory</p>
 <p>php artisan migrate</p>
 <p>php artisan serve</p>
 
