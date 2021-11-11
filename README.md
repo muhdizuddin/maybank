@@ -1,7 +1,7 @@
 <h2>Intergration of Laravel with Google authentications and the applied of Restful API in gathering Data</h2>
 
 1. Run XAMPP
-2. Initialize Google authentications information in .env files
+2. Configure extra information in .env files
 
 <p>GOOGLE_CLIENT_ID=Google Client ID(provided)</p>
 <p>GOOGLE_CLIENT_SECRET=Client Secrets(provided)</p>
@@ -19,3 +19,9 @@
 
 <p>Microservice Arcithecture</p> 
 <img src="https://github.com/muhdizuddin/maybank/blob/master/Untitled%20Diagram.jpg" >
+
+<h2>Front End</h2>
+By using bootstrap, fontawesome and Laravel blade in creating front end.I also use google authentications where information about users is kept inside mysql and backup by google cloud storage
+
+<h2>Back End</h2>
+I fetch information based on live data that created and send through json format. I use post and get API in order to fetch realtime data. I also use laravel controller, models and rest API in interacting with the data. First, i ask user to input the date that they wanted and the date is changed into timestamps and get the exact position of ISS through coordinates given. 
