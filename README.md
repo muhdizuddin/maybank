@@ -16,6 +16,7 @@
 <p>change your database directory</p>
 <p>php artisan migrate</p>
 <p>php artisan serve</p>
+<p>go to http://localhost:8000/login</p>
 
 4. Enter the date in Year/Month/Day Hour:Minutes:Seconds
 
