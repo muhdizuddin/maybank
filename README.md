@@ -16,3 +16,6 @@
 <p>php artisan serve</p>
 
 4. Enter the date in Year/Month/Day Hour:Minutes:Seconds
+
+<p>Microservice Arcithecture</p> 
+<img src="https://github.com/muhdizuddin/maybank/blob/master/Untitled%20Diagram.jpg" >
